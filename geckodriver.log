@@ -1,0 +1,94 @@
+1543354775107	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/gn_h92fs4zj4128fgr9mjp480000gn/T/rust_mozprofile.UiN2ybCbfS0u"
+1543354777195	Marionette	INFO	Listening on port 54066
+1543354777261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543354810095	Marionette	INFO	Stopped listening on port 54066
+1543354832164	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/gn_h92fs4zj4128fgr9mjp480000gn/T/rust_mozprofile.nMY0BLzHRE8P"
+1543354833763	Marionette	INFO	Listening on port 54130
+1543354833808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543355126684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/gn_h92fs4zj4128fgr9mjp480000gn/T/rust_mozprofile.23I0k3QgJLr2"
+1543355128407	Marionette	INFO	Listening on port 54282
+1543355128434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543355134935	Marionette	INFO	Stopped listening on port 54282
+1543355193669	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/gn_h92fs4zj4128fgr9mjp480000gn/T/rust_mozprofile.Wg4Tn2TaR8EM"
+1543355195316	Marionette	INFO	Listening on port 54376
+1543355195411	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/target.js, line 532: TypeError: this._tab.ownerDocument.defaultView is null
+1543356302731	Marionette	INFO	Stopped listening on port 54376
+1543361997337	Marionette	INFO	Stopped listening on port 54130
+1543401641444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/gn_h92fs4zj4128fgr9mjp480000gn/T/rust_mozprofile.T1PnwvFzOyGk"
+1543401646286	Marionette	INFO	Listening on port 59439
+1543402014154	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/gn_h92fs4zj4128fgr9mjp480000gn/T/rust_mozprofile.5f85rzG5nTjU"
+1543402015816	Marionette	INFO	Listening on port 61084
+1543402015901	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543402804722	Marionette	INFO	Stopped listening on port 61084
+1543403936660	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/gn_h92fs4zj4128fgr9mjp480000gn/T/rust_mozprofile.HQ3HxDnpgg9k"
+1543403938354	Marionette	INFO	Listening on port 53089
+1543403938412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543403958172	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/gn_h92fs4zj4128fgr9mjp480000gn/T/rust_mozprofile.h8gpOWasPJ9U"
+1543403959982	Marionette	INFO	Listening on port 53212
+1543403960027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543403975272	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/xc/gn_h92fs4zj4128fgr9mjp480000gn/T/rust_mozprofile.mF9ZLsjGv8EF"
+1543403976953	Marionette	INFO	Listening on port 53370
+1543403977029	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543404008835	Marionette	INFO	Stopped listening on port 59439
+1543404012001	Marionette	INFO	Stopped listening on port 53370
+1543404015104	Marionette	INFO	Stopped listening on port 53212
+1543404017257	Marionette	INFO	Stopped listening on port 53089
